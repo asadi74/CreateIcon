@@ -1,0 +1,19 @@
+{
+  "name": "create-icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/asadi74/CreateIcon"
+  },
+  "author": {
+    "name":"mohammad javad asadi",
+    "web":"https://mjavadasadi.ir"
+  },
+  "scripts": {
+    "create": "fantasticon icon-source -o icon-dist"
+  },
+ 
+  "license": "ISC"
+}
